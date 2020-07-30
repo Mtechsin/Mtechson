@@ -482,8 +482,8 @@ footer .Contact li a img
         margin-left: auto;
     }
     .main ul img {
-    width: auto;
-    height: auto;
+    width: 8vh;
+    height: 25vw;
     }
     .tt{
         margin: 0px 9px;
